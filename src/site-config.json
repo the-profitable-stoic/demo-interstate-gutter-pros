@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Interstate gutter pros",
+    "phone": "+17636705199",
+    "category": "gutter installation",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Minneapolis Gutter Experts",
+      "heroSubline": "Protecting your home from Minnesota's harsh weather. Expert installation and reliable service, guaranteed.",
+      "aboutTitle": "Protecting Minneapolis Homes, One Gutter at a Time",
+      "aboutText": [
+        "Interstate Gutter Pros started with a simple mission: to provide Minneapolis homeowners with durable, reliable gutter systems that can withstand our brutal winters and intense summer storms. We're a local company, built on the values of hard work and honest service.",
+        "We believe in doing the job right the first time. Our team uses only the highest quality materials and proven installation techniques to ensure your gutters perform flawlessly for years to come. We treat every home as if it were our own.",
+        "As a Minneapolis-based company, we are committed to giving back to the community. We actively support local initiatives and strive to make a positive impact beyond just gutters. We understand the needs of Minneapolis homeowners."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Minneapolis weather and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Durable gutters built to last through Minnesota winters."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Precise installation for optimal performance and protection."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We stand behind our work with a satisfaction guarantee."
+        }
+      ],
+      "ctaHeadline": "Get a Free Gutter Estimate",
+      "ctaSubline": "Protect your home from water damage. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "seamless-gutter-installation",
+        "name": "Seamless Gutter Installation",
+        "shortDescription": "Prevent leaks and protect your home with our seamless gutter solutions.",
+        "description": "Seamless gutters are the gold standard for water management in Minneapolis. Unlike traditional gutters with multiple joints, seamless gutters are custom-made on-site to perfectly fit your home. This eliminates weak points prone to leaks and reduces the risk of water damage to your foundation, siding, and landscaping. \n\nOur experienced installers use specialized equipment to create seamless gutters from durable aluminum or copper. We offer a variety of colors to complement your home's exterior. We take precise measurements to ensure a perfect fit and proper slope for optimal water flow. Seamless gutters are a smart investment that will protect your home for years to come, especially against ice dams.\n\nWe handle the entire process, from removing your old gutters to installing your new seamless system. We also offer gutter guard options to further protect your gutters from leaves and debris.",
+        "process": [
+          "Step 1: On-site consultation and measurement",
+          "Step 2: Custom gutter fabrication",
+          "Step 3: Professional installation",
+          "Step 4: Clean-up and inspection"
+        ],
+        "benefits": [
+          "Reduced leaks and water damage",
+          "Custom fit to your home",
+          "Improved curb appeal",
+          "Long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for seamless gutters?",
+            "answer": "We primarily use high-quality aluminum, but we also offer copper gutters for a more premium look and longer lifespan."
+          },
+          {
+            "question": "How long does it take to install seamless gutters?",
+            "answer": "The installation time depends on the size and complexity of your home, but most projects can be completed in one day."
+          },
+          {
+            "question": "Do you offer a warranty on your seamless gutter installations?",
+            "answer": "Yes, we offer a comprehensive warranty on both materials and workmanship."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guard-installation",
+        "name": "Gutter Guard Installation",
+        "shortDescription": "Keep your gutters clean and flowing freely with our gutter guard systems.",
+        "description": "Minneapolis's trees are beautiful, but they can wreak havoc on your gutters. Leaves, twigs, and debris accumulate quickly, causing clogs and water damage. Gutter guards are a simple solution to this problem. They prevent debris from entering your gutters while allowing rainwater to flow freely. This reduces the need for frequent cleaning and protects your home from costly repairs.\n\nWe offer a variety of gutter guard options to suit your specific needs and budget. Our expert installers will recommend the best system for your home based on factors such as roof pitch, tree coverage, and gutter size. We install micro-mesh, reverse curve, and brush-style gutter guards. Each type offers unique advantages in terms of debris filtration and water flow.\n\nGutter guards are an investment that pays for itself over time by reducing maintenance costs and preventing water damage. They also make your home safer by eliminating the need to climb a ladder to clean your gutters.",
+        "process": [
+          "Step 1: Gutter inspection and cleaning",
+          "Step 2: Gutter guard selection and measurement",
+          "Step 3: Professional installation",
+          "Step 4: Final inspection and debris removal"
+        ],
+        "benefits": [
+          "Reduced gutter cleaning",
+          "Prevention of clogs and water damage",
+          "Extended gutter lifespan",
+          "Improved safety"
+        ],
+        "faq": [
+          {
+            "question": "What types of gutter guards do you offer?",
+            "answer": "We offer micro-mesh, reverse curve, and brush-style gutter guards, each with its own advantages."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of system and the size of your home. We offer free estimates."
+          },
+          {
+            "question": "Will gutter guards completely eliminate the need for gutter cleaning?",
+            "answer": "While gutter guards significantly reduce the need for cleaning, occasional maintenance may still be required to remove fine debris."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Fix leaks, sags, and damage with our expert gutter repair services.",
+        "description": "Minnesota's harsh weather can take a toll on your gutters. Freeze-thaw cycles, heavy snow, and ice dams can cause leaks, sags, and other damage. Ignoring these problems can lead to serious water damage to your home's foundation, siding, and roof. Our experienced technicians can quickly diagnose and repair any gutter issue.\n\nWe handle all types of gutter repairs, from patching leaks to replacing damaged sections. We use high-quality materials and proven techniques to ensure a lasting repair. We also offer preventative maintenance services to help extend the lifespan of your gutters. Whether you have a small leak or a major collapse, we can help.\n\nDon't let damaged gutters compromise the integrity of your home. Contact us today for a free inspection and repair estimate.",
+        "process": [
+          "Step 1: Thorough gutter inspection",
+          "Step 2: Damage assessment and repair plan",
+          "Step 3: Professional repair execution",
+          "Step 4: Quality check and leak test"
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Extended gutter lifespan",
+          "Cost-effective solution",
+          "Improved home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Common signs include leaks, sagging, rust, and overflowing water."
+          },
+          {
+            "question": "Can you repair gutters in the winter?",
+            "answer": "Yes, we can perform gutter repairs in the winter, weather permitting. We use specialized techniques to work in cold conditions."
+          },
+          {
+            "question": "How long does a gutter repair take?",
+            "answer": "The repair time depends on the extent of the damage, but most repairs can be completed in a few hours."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Remove leaves and debris to ensure proper water flow with our gutter cleaning service.",
+        "description": "Clogged gutters can cause a host of problems, including water damage, foundation issues, and pest infestations. Regular gutter cleaning is essential to maintain the health of your home. Our professional gutter cleaning service removes leaves, twigs, and other debris from your gutters and downspouts, ensuring proper water flow.\n\nWe use safe and effective techniques to clean your gutters without damaging your roof or landscaping. We also inspect your gutters for any signs of damage and provide recommendations for repairs. We'll clear out even the most stubborn blockages and ensure your system is working properly.\n\nSave yourself the hassle and risk of climbing a ladder. Let our experienced team handle your gutter cleaning needs.",
+        "process": [
+          "Step 1: Roof and gutter inspection",
+          "Step 2: Debris removal from gutters and downspouts",
+          "Step 3: Gutter flushing and leak check",
+          "Step 4: Debris disposal and site cleanup"
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Improved water flow",
+          "Pest control",
+          "Extended gutter lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, especially in the spring and fall."
+          },
+          {
+            "question": "What happens if I don't clean my gutters?",
+            "answer": "Clogged gutters can lead to water damage, foundation problems, and pest infestations."
+          },
+          {
+            "question": "Do you offer discounts for regular gutter cleaning?",
+            "answer": "Yes, we offer discounts for customers who schedule regular gutter cleaning services."
+          }
+        ]
+      },
+      {
+        "slug": "ice-dam-removal",
+        "name": "Ice Dam Removal",
+        "shortDescription": "Safely remove ice dams and prevent roof damage with our specialized service.",
+        "description": "Ice dams are a serious problem for Minneapolis homeowners. When snow melts and refreezes at the edge of your roof, it forms a dam that prevents water from draining properly. This can lead to water backing up under your shingles and causing leaks, mold, and structural damage. Our ice dam removal service safely and effectively removes ice dams without damaging your roof.\n\nWe use steam to melt the ice dams, which is the safest and most effective method. We never use hammers, chisels, or other tools that can damage your roof. Our experienced technicians are trained to identify and remove ice dams without causing further damage. Don't wait until it's too late. Contact us today for ice dam removal services.\n\nWe also offer preventative measures to help prevent ice dams from forming in the first place, such as improving attic insulation and ventilation.",
+        "process": [
+          "Step 1: Ice dam assessment and safety precautions",
+          "Step 2: Gentle steam-based ice dam removal",
+          "Step 3: Gutter and downspout clearing",
+          "Step 4: Roof inspection and preventative recommendations"
+        ],
+        "benefits": [
+          "Prevention of roof leaks and water damage",
+          "Safe and effective ice dam removal",
+          "Protection of your home's structure",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What causes ice dams?",
+            "answer": "Ice dams are caused by a combination of snow, melting water, and poor attic insulation."
+          },
+          {
+            "question": "How can I prevent ice dams?",
+            "answer": "Improving attic insulation and ventilation can help prevent ice dams from forming."
+          },
+          {
+            "question": "How much does ice dam removal cost?",
+            "answer": "The cost of ice dam removal depends on the size and severity of the ice dam. We offer free estimates."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protect your roof and attic with our soffit and fascia repair services.",
+        "description": "Soffit and fascia are essential components of your roofing system. Soffit provides ventilation for your attic, while fascia protects the edges of your roof and supports your gutters. Damaged soffit and fascia can lead to moisture problems, pest infestations, and structural damage. Our experienced technicians can repair or replace damaged soffit and fascia to ensure your roof is properly protected.\n\nWe use high-quality materials that are designed to withstand Minnesota's harsh weather. We also offer a variety of colors and styles to match your home's exterior. Whether you have wood, vinyl, or aluminum soffit and fascia, we can provide the repairs you need.\n\nDon't neglect your soffit and fascia. Contact us today for a free inspection and repair estimate.",
+        "process": [
+          "Step 1: Soffit and fascia inspection",
+          "Step 2: Damage assessment and repair plan",
+          "Step 3: Professional repair or replacement",
+          "Step 4: Quality check and sealing"
+        ],
+        "benefits": [
+          "Prevention of moisture damage",
+          "Pest control",
+          "Improved roof ventilation",
+          "Enhanced home appearance"
+        ],
+        "faq": [
+          {
+            "question": "What are soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Common signs include rot, peeling paint, and pest infestations."
+          },
+          {
+            "question": "What materials do you use for soffit and fascia?",
+            "answer": "We use a variety of materials, including wood, vinyl, and aluminum."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-replacement",
+        "name": "Gutter Replacement",
+        "shortDescription": "Upgrade your outdated or damaged gutters with our professional replacement services.",
+        "description": "If your gutters are old, damaged, or simply not performing as they should, it may be time for a replacement. Our professional gutter replacement service will upgrade your home with a new, high-quality gutter system that will protect your home from water damage for years to come. We offer a variety of gutter styles and materials to choose from, including seamless gutters, aluminum gutters, and copper gutters.\n\nOur experienced installers will remove your old gutters and install your new system with precision and care. We also offer gutter guard options to further protect your gutters from leaves and debris. We'll make sure your new gutters are properly sloped and secured to ensure optimal water flow.\n\nInvesting in new gutters is a smart way to protect your home and increase its value. Contact us today for a free consultation and replacement estimate.",
+        "process": [
+          "Step 1: Consultation and gutter selection",
+          "Step 2: Removal of old gutters",
+          "Step 3: Professional installation of new gutters",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Improved water management",
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How long do gutters last?",
+            "answer": "The lifespan of gutters depends on the material and maintenance, but most gutters last 20-30 years."
+          },
+          {
+            "question": "What are the benefits of seamless gutters?",
+            "answer": "Seamless gutters are less prone to leaks and require less maintenance than traditional gutters."
+          },
+          {
+            "question": "How much does gutter replacement cost?",
+            "answer": "The cost of gutter replacement depends on the size of your home and the type of gutters you choose. We offer free estimates."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Paul",
+        "slug": "st-paul-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros is proud to serve the historic city of St. Paul. We understand the unique challenges that St. Paul's diverse architecture presents, from the grand Victorian-era homes on Summit Avenue to the charming bungalows in the Highland Park neighborhood. Our team is experienced in installing and maintaining gutter systems that complement and protect these beautiful homes. St. Paul's extreme winters demand durable, reliable gutters that can withstand heavy snow and ice. We offer a variety of gutter materials, including aluminum, steel, and copper, to suit your specific needs and budget. \n\nWe know that St. Paul residents value quality and craftsmanship. That's why we use only the highest-quality materials and employ experienced installers who take pride in their work. Whether you need a new gutter system installed, your existing gutters repaired, or a routine cleaning, Interstate Gutter Pros is here to help. We are committed to providing exceptional service and ensuring your complete satisfaction.",
+        "localContext": "St. Paul, Minnesota's capital city, is known for its distinct neighborhoods and historic architecture, particularly the Victorian-era homes that line Summit Avenue.",
+        "nearbyAreas": [
+          "Minneapolis",
+          "West St. Paul",
+          "South St. Paul"
+        ]
+      },
+      {
+        "city": "Plymouth",
+        "slug": "plymouth-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros is your trusted gutter installation and repair expert in Plymouth, MN. We understand the specific needs of Plymouth homeowners, many of whom reside in the established suburban homes built in the 1970s and 80s. These homes require gutter systems that are both functional and aesthetically pleasing, seamlessly blending with the existing architecture.\n\nWe offer a wide range of gutter services in Plymouth, including new installations, repairs, cleaning, and leaf guard installation. We understand the importance of protecting your home from the harsh Minnesota winters. Our durable gutter systems are designed to withstand heavy snow and ice, preventing costly water damage. We are committed to providing Plymouth residents with reliable and affordable gutter solutions.",
+        "localContext": "Plymouth, Minnesota, features many established suburban homes built in the 1970s and 80s, requiring gutter systems that blend seamlessly with their architecture.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Minnetonka",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Eden Prairie",
+        "slug": "eden-prairie-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros is dedicated to providing top-notch gutter services in Eden Prairie, MN. We are familiar with the unique characteristics of Eden Prairie's housing stock, which predominantly consists of planned developments from the 1980s and 90s. These homes often require specific gutter solutions to ensure proper water drainage and prevent damage.\n\nOur team is experienced in installing, repairing, and maintaining gutter systems on a variety of home styles in Eden Prairie. We offer a comprehensive range of services, including gutter cleaning, leaf guard installation, and complete gutter replacements. We understand the importance of protecting your home from the elements, especially during the harsh Minnesota winters. Trust Interstate Gutter Pros to keep your gutters functioning optimally year-round.",
+        "localContext": "Eden Prairie, Minnesota, is characterized by planned developments from the 1980s and 90s, requiring tailored gutter solutions for various home styles.",
+        "nearbyAreas": [
+          "Minnetonka",
+          "Hopkins",
+          "Chanhassen"
+        ]
+      },
+      {
+        "city": "Maple Grove",
+        "slug": "maple-grove-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros is proud to offer expert gutter services to the residents of Maple Grove, MN. We understand the needs of homeowners in this thriving community, known for its family-friendly developments built in the 1990s and 2000s. We provide solutions to protect your home from the elements.\n\nWe offer a full suite of gutter services to Maple Grove, including installation, repair, cleaning, and leaf guard systems. Our team uses high-quality materials and skilled craftsmanship to ensure lasting performance. We are committed to providing reliable and affordable gutter solutions to protect your investment.",
+        "localContext": "Maple Grove, Minnesota, is known for its family-oriented neighborhoods and homes built in the 1990s and 2000s, requiring gutter systems designed to withstand Minnesota's climate.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Osseo",
+          "Rogers"
+        ]
+      },
+      {
+        "city": "Bloomington",
+        "slug": "bloomington-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros is your local gutter expert in Bloomington, MN. We specialize in providing tailored gutter solutions for Bloomington's established ranch-style homes from the 1960s and 70s. We understand the importance of maintaining these homes' integrity and protecting them from water damage.\n\nOur services in Bloomington include gutter installation, repair, cleaning, and the installation of effective leaf guard systems. We use high-quality materials and employ skilled technicians to ensure that your gutters perform optimally for years to come. We are committed to providing reliable and affordable gutter solutions to Bloomington homeowners.",
+        "localContext": "Bloomington, Minnesota, features many established ranch-style homes from the 1960s and 70s, necessitating gutter systems that complement their architecture and protect them from the elements.",
+        "nearbyAreas": [
+          "Richfield",
+          "Edina",
+          "Minneapolis"
+        ]
+      },
+      {
+        "city": "Minneapolis",
+        "slug": "minneapolis-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros is your premier choice for gutter services in Minneapolis, MN. From the historic homes of Northeast Minneapolis to the modern developments downtown, we understand the diverse needs of Minneapolis homeowners. Our experienced team provides comprehensive gutter solutions to protect your home from the elements.\n\nWe offer a wide range of services, including gutter installation, repair, cleaning, and leaf guard systems. We use only the highest-quality materials and employ skilled technicians to ensure lasting performance. Whether you need a new gutter system installed or your existing gutters repaired, Interstate Gutter Pros is here to help. We are committed to providing exceptional service and ensuring your complete satisfaction.",
+        "localContext": "Minneapolis, Minnesota, a major city with diverse architecture, requires customized gutter solutions to protect homes from the harsh climate.",
+        "nearbyAreas": [
+          "St. Paul",
+          "Bloomington",
+          "Edina"
+        ]
+      },
+      {
+        "city": "Minnetonka",
+        "slug": "minnetonka-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros proudly serves the residents of Minnetonka, MN, providing expert gutter services to protect your homes. We understand the local climate and the specific needs of Minnetonka homeowners. Whether you need new gutters installed, existing gutters repaired, or a thorough cleaning, we're here to help.\n\nWe offer a comprehensive range of services, including gutter installation, repair, cleaning, and leaf guard installation. Our team is experienced in working with a variety of home styles and gutter materials. We are committed to providing reliable and affordable gutter solutions to the Minnetonka community.",
+        "localContext": "Minnetonka, Minnesota, with its mix of residential properties, benefits from reliable gutter systems to manage snow and rainfall.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Eden Prairie",
+          "Hopkins"
+        ]
+      },
+      {
+        "city": "Edina",
+        "slug": "edina-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros is your trusted provider of gutter services in Edina, MN. We understand the importance of maintaining the beauty and integrity of Edina's homes. Our team is dedicated to providing top-quality gutter solutions to protect your investment.\n\nWe offer a full range of services, including gutter installation, repair, cleaning, and leaf guard systems. We use premium materials and skilled craftsmanship to ensure lasting performance. We are committed to providing exceptional service and ensuring your complete satisfaction.",
+        "localContext": "Edina, Minnesota, known for its well-maintained homes, requires reliable gutter systems to protect properties from water damage.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Richfield",
+          "St. Louis Park"
+        ]
+      },
+      {
+        "city": "Richfield",
+        "slug": "richfield-mn",
+        "state": "MN",
+        "content": "Interstate Gutter Pros is pleased to provide expert gutter services to the residents of Richfield, MN. We understand the specific needs of Richfield homeowners and offer tailored solutions to protect your properties from the elements. From gutter installations to repairs and cleaning, we've got you covered.\n\nOur comprehensive services include gutter installation, repair, cleaning, and the installation of effective leaf guard systems. We use high-quality materials and skilled technicians to ensure that your gutters perform optimally for years to come. We are dedicated to providing reliable and affordable gutter solutions to the Richfield community.",
+        "localContext": "Richfield, Minnesota, a suburb with a variety of home styles, benefits from dependable gutter systems to manage seasonal weather changes.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Minneapolis",
+          "Edina"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Seamless Gutter Installation",
+        "text": "Interstate Gutter Pros did an amazing job installing seamless gutters on our 1920s Craftsman in Linden Hills. The crew was professional, efficient, and cleaned up everything perfectly. The new gutters look fantastic and we're confident they'll handle the heavy Minneapolis rain.",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "We've used Interstate Gutter Pros for gutter cleaning for the past few years. They are always on time and do a thorough job. Living near Lake Calhoun, we get a lot of leaves in our gutters, and they always clear them out completely.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 5,
+        "service": "Gutter Guard Installation",
+        "text": "We had Interstate Gutter Pros install gutter guards on our rambler in South Minneapolis. We were tired of constantly cleaning our gutters. The installation was quick and easy, and we haven't had to clean our gutters since! Highly recommend.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Gutter Repair",
+        "text": "After a particularly brutal winter, we had a section of gutter that was pulled away from our house. Interstate Gutter Pros came out quickly and fixed it perfectly. They were honest and didn't try to upsell us on unnecessary services.",
+        "date": "2024-03-10"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Ice Dam Removal",
+        "text": "Interstate Gutter Pros saved our roof! We had a massive ice dam and were worried about leaks. They came out quickly and safely removed the ice dam without damaging our shingles. They also gave us helpful tips on preventing ice dams in the future.",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Seamless Gutter Installation",
+        "text": "I needed new gutters on my home in North Loop, and Interstate Gutter Pros were fantastic. The installation team was professional and efficient, completing the job in just one day. The seamless gutters look great and function perfectly. Great value for the price!",
+        "date": "2025-02-14"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Gutter Installation Minneapolis | Interstate Gutter Pros",
+        "description": "Reliable gutter installation, repair, and cleaning services in Minneapolis, MN. Protect your home from water damage. Free estimates!"
+      },
+      "about": {
+        "title": "About Us | Interstate Gutter Pros Minneapolis",
+        "description": "Learn about Interstate Gutter Pros, your trusted local gutter experts in Minneapolis. Quality service and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Gutter Services | Interstate Gutter Pros Minneapolis",
+        "description": "Comprehensive gutter services in Minneapolis: installation, repair, cleaning, gutter guards, and ice dam removal. Protect your home today."
+      },
+      "contact": {
+        "title": "Contact Us | Interstate Gutter Pros Minneapolis",
+        "description": "Contact Interstate Gutter Pros for a free gutter estimate in Minneapolis. Call us today or fill out our online form."
+      },
+      "reviews": {
+        "title": "Reviews | Interstate Gutter Pros Minneapolis",
+        "description": "Read reviews from satisfied Interstate Gutter Pros customers in Minneapolis. See why we're the trusted choice for gutter services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Interstate Gutter Pros Minneapolis",
+        "description": "Interstate Gutter Pros provides gutter services throughout the Minneapolis metro area. Find out if we serve your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "seamless-gutter-installation": "/images/service-seamless-gutter-installation.webp",
+      "gutter-guard-installation": "/images/service-gutter-guard-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "ice-dam-removal": "/images/service-ice-dam-removal.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp",
+      "gutter-replacement": "/images/service-gutter-replacement.webp"
+    },
+    "servicesResponsive": {
+      "seamless-gutter-installation": {
+        "src": "/images/service-seamless-gutter-installation.webp",
+        "srcset": "/images/service-seamless-gutter-installation-400w.webp 400w, /images/service-seamless-gutter-installation-800w.webp 800w, /images/service-seamless-gutter-installation-1200w.webp 1200w, /images/service-seamless-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guard-installation": {
+        "src": "/images/service-gutter-guard-installation.webp",
+        "srcset": "/images/service-gutter-guard-installation-400w.webp 400w, /images/service-gutter-guard-installation-800w.webp 800w, /images/service-gutter-guard-installation-1200w.webp 1200w, /images/service-gutter-guard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ice-dam-removal": {
+        "src": "/images/service-ice-dam-removal.webp",
+        "srcset": "/images/service-ice-dam-removal-400w.webp 400w, /images/service-ice-dam-removal-800w.webp 800w, /images/service-ice-dam-removal-1200w.webp 1200w, /images/service-ice-dam-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-replacement": {
+        "src": "/images/service-gutter-replacement.webp",
+        "srcset": "/images/service-gutter-replacement-400w.webp 400w, /images/service-gutter-replacement-800w.webp 800w, /images/service-gutter-replacement-1200w.webp 1200w, /images/service-gutter-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
